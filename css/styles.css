@@ -13,7 +13,7 @@ body {
 /* header starts here */
 
 .showPage {
-    background-image: url(/assets/Little\ Bit\ of\ Everything\ GoDaddy\ Store\ Image\ \(4\).png);
+    background-image: url(/brimston/assets/Little\ Bit\ of\ Everything\ GoDaddy\ Store\ Image\ \(4\).png);
     background-size: contain;
     height: 500px;
     width: 100%;
@@ -113,7 +113,7 @@ body {
 #section-2 {
     text-align: center;
     padding: 40px;
-    background-image: url(/assets/blob-scene-haikei.svg);
+    background-image: url(/brimston/assets/blob-scene-haikei.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
