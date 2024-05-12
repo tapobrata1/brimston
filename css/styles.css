@@ -14,8 +14,7 @@ body {
 
 .showPage {
     background-image: url(/brimston/assets/Little\ Bit\ of\ Everything\ GoDaddy\ Store\ Image\ \(4\).png);
-    background-size: auto;
-    background-repeat: no-repeat;
+    background-size: contain;
     height: 500px;
     width: 100%;
     display: flex;
